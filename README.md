@@ -3,9 +3,9 @@
 Dự án này là một ứng dụng web được xây dựng trên framework Laravel, tích hợp chức năng đăng nhập thông qua bên thứ ba (Google và Facebook) sử dụng thư viện Laravel Socialite. Hệ thống đảm bảo các yêu cầu về quản lý phiên đăng nhập, lưu trữ thông tin người dùng và tùy chỉnh giao diện cá nhân hóa theo yêu cầu.
 
 ## Sinh viên thực hiện:
-- Họ tên:
-- Lớp:
-- Mã sinh viên: 
+- Họ tên: Nguyễn Trọng Đại
+- Lớp: D18CNPM2
+- Mã sinh viên: 23810310120
 
 ## 1. Yêu cầu hệ thống
 - Hệ điều hành: Windows 10/11
